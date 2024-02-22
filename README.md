@@ -25,6 +25,33 @@
 
   <h2>Skills</h2>
 
+  - <b>Azure</b>
+
+  - <b>Endpoint</b>
+
+  - <b>Active Directory</b>
+
+  - <b>SSO</b>
+
+  - <b>MFA</b>
+
+  - <b>Network Security</b>
+
+  - <b>  </b>
+
+  - <b>  </b>
+
+  <h2>Platforms</h2>
+
+  - <b>Microsoft</b>
+
+  - <b>MacOS/iOS</b>
+
+  - <b>Linux</b>
+
+  - <b>Andriod</b>
+
+
 
 <h2> 🤳 Connect with me:</h2>
 
