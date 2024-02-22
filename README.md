@@ -25,22 +25,35 @@
 
   <h2>Skills</h2>
 
-  - <b>Azure</b>
+  - <b>Technical Troubleshooting: </b>
+<br>Ability to diagnose and resolve hardware, software, and network issues efficiently.
 
-  - <b>Endpoint</b>
+  - <b>Endpoint Security:</b>
+  <br>Understanding of antivirus software, firewalls, and other endpoint security measures to ensure system integrity.
 
-  - <b>Active Directory</b>
+  - <b>Active Directory:</b>
+<br>Experience with user and group management, permissions, and basic AD administration.
 
-  - <b>SSO</b>
+   - <b>IT Ticketing Systems:</b>
+   <br>Proficiency in using IT ticketing systems like ServiceNow, JIRA, or Zendesk to track and manage support requests.
 
-  - <b>MFA</b>
+  - <b>Knowledge Base Management:</b>
+  <br>Maintaining and updating a comprehensive knowledge base to facilitate self-service and quick issue resolution.
 
-  - <b>Network Security</b>
+  - <b>Network Security</b>Knowledge of TCP/IP, DNS, DHCP, and other networking concepts to troubleshoot connectivity issues.
 
-  - <b>Data Management</b>
+  - <b>Remote Support Tools:</b>
+<br>Familiarity with remote desktop tools such as TeamViewer, Remote Desktop Connection, or AnyDesk for providing remote assistance.
 
-  - <b>Project Management</b>
+  - <b>Operating Systems:</b>
+  <br>Solid understanding of various operating systems including Windows, macOS, and Linux.
 
+- <b>Documentation Skills:</b>
+  <br>Ability to document troubleshooting steps, resolutions, and procedures effectively for future reference and knowledge sharing.
+
+- <b>Operating Systems:</b>
+  <br>Solid understanding of various operating systems including Windows, macOS, and Linux.
+  
   <h2>Platforms</h2>
 
   - <b>Microsoft</b>
