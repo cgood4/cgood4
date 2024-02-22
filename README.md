@@ -48,21 +48,11 @@
   - <b>Operating Systems:</b>
   <br>Solid understanding of various operating systems including Windows, macOS, and Linux.
 
-- <b>Documentation Skills:</b>
-  <br>Ability to document troubleshooting steps, resolutions, and procedures effectively for future reference and knowledge sharing.
+  - <b>Documentation Skills:</b>
+<br>Ability to document troubleshooting steps, resolutions, and procedures effectively for future reference and knowledge sharing.
 
-- <b>Operating Systems:</b>
+  - <b>Operating Systems:</b>
   <br>Solid understanding of various operating systems including Windows, macOS, and Linux.
-  
-  <h2>Platforms</h2>
-
-  - <b>Microsoft</b>
-
-  - <b>MacOS/iOS</b>
-
-  - <b>Linux</b>
-
-  - <b>Andriod</b>
 
 <h2> 🤳 Connect with me:</h2>
 
