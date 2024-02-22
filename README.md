@@ -37,9 +37,9 @@
 
   - <b>Network Security</b>
 
-  - <b>  </b>
+  - <b>Data Management</b>
 
-  - <b>  </b>
+  - <b>Project Management</b>
 
   <h2>Platforms</h2>
 
