@@ -23,7 +23,7 @@
 - <b>Technical Support Fundamentals</b>
   - Google
 
-  <h2>💻Skills</h2>
+<h2>💻Skills</h2>
 
   - <b>Technical Troubleshooting: </b>
 <br>Ability to diagnose and resolve hardware, software, and network issues efficiently.
